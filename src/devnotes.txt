@@ -1,0 +1,13 @@
+Full React Tutorial
+https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=2
+
+Github repo
+https://github.com/iamshaunjp/Complete-React-Tutorial
+
+
+
+Lesson #16 - Using JSON Server
+$ npm start
+
+Open new terminal
+$ npx json-server --watch data/db.json --port 8000
